@@ -32,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       rootElement.addEventListener('scroll', reportScrollPosition)
-      rootElement.addEventListener('click', () => alert('clicked'))
     } else {
       console.warn('iframe document element not found.')
     }
