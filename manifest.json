@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Scroll Sync",
+  "name": "Storybook tabs scroll sync",
   "version": "1.0",
-  "description": "Sync the scroll position of a specific HTML element across tabs",
+  "description": "Storybook tabs scroll sync extension syncs the scroll position between Storybook tabs",
   "permissions": [
     "activeTab",
     "storage",
@@ -10,7 +10,8 @@
     "scripting"
   ],
   "host_permissions": [
-    "*://*/*"
+    "*://*/*",
+    "<all_urls>"
   ],
   "background": {
     "service_worker": "background.js"
