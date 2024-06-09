@@ -2,7 +2,7 @@
 
 ---
 
-# :warning: There are other extension that do the same, for example https://chromewebstore.google.com/detail/synchronize-tab-scrolling/phceoocamipnafpgnchbfhkdlbleeafc?hl=en
+## :warning: There are other extensions that do the same, for example https://chromewebstore.google.com/detail/synchronize-tab-scrolling/phceoocamipnafpgnchbfhkdlbleeafc?hl=en
 
 ---
 
